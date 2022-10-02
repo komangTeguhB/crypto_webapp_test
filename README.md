@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project has been deployed
+
+This project has been depoloyed to [Heroku](https://crypto-webapp-test.herokuapp.com/).
+
 ## Available Scripts
 
 In the project directory, you can run:
