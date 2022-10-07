@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project has been depoloyed to [Heroku](https://crypto-webapp-test.herokuapp.com/).
 
+![app screenshot](https://raw.githubusercontent.com/komangTeguhB/crypto_webapp_test/main/src/assets/Screenshot1.jpeg)
+
 ## Available Scripts
 
 In the project directory, you can run:
